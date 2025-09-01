@@ -42,4 +42,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [GNU GPLv3](COPYING) licensed.
+This project is [GNU GPLv3](LICENSE) licensed.
