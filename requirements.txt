@@ -1,0 +1,7 @@
+kivy
+speechrecognition
+pyaudio
+xai_sdk
+openai
+edge_tts
+playsound
