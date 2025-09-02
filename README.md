@@ -10,17 +10,26 @@
 To get a local copy up and running follow these steps.
 
 ### Prerequisites
-- Get an [Open AI account and an API key](https://platform.openai.com/docs/overview)
-- Get an [X AI account and an API key](https://docs.x.ai/docs/overview)
+- Get an [OpenAI account and an API key](https://platform.openai.com/docs/overview) or
+- Get an [XAI account and an API key](https://docs.x.ai/docs/overview)
 
 ### Setup
-
+- Windows: Work in progress
+- Android: Work in progress
 
 ### Install
-
+- Windows: Work in progress
+- Android: Work in progress
 
 ### Usage
-
+- Open application
+- Select IA provider: OpenAI or XAI
+- Enter API Key
+- Push API Key to validate access
+- If API Key is valid, push start button (Inicio)
+- Now the application is ready to listen your prompts
+- Use "Pausa/Continuar" button to stop 
+- Say "terminar" or just close application window to stop
 
 ## Authors
 
