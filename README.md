@@ -18,7 +18,7 @@ To get a local copy up and running follow these steps.
 - Android: Work in progress
 
 ### Install
-- Windows: Work in progress
+- Windows: [v1.0.0](https://github.com/pedromartinez079/AI-VoiceAssistant/releases/tag/v1.0.0)
 - Android: Work in progress
 
 ### Usage
