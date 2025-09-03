@@ -4,6 +4,7 @@ edge_tts_voices.txt
 ToDo.txt
 VSCodeSetup.txt
 test.py
+*.spec
 # Compiled source #
 ###################
 *.class

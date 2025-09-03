@@ -5,3 +5,6 @@ xai_sdk
 openai
 edge_tts
 playsound
+requests
+pyinstaller
+pipwin
