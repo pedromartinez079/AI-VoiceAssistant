@@ -8,3 +8,4 @@ playsound
 requests
 pyinstaller
 pipwin
+# buildozer
